@@ -1,5 +1,5 @@
 ## A hardworking, happy young man. 😁 
- ![](https://img.shields.io/badge/Javascript%20Developer-Computer%20Engineer%20%2F%20Bloger%20%2F%20Trainer-a)
+ ![](https://img.shields.io/badge/Javascript%20Developer-Computer%20Engineer%20%2F%20Influncer%20%2F%20Trainer-a)
  <br/>
 <br/>
 <a href="https://instagram.com/master_javascript">
