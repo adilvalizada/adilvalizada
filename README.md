@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### A hardworking, happy young man. 😁
+### Computer and me 💻
+<hr/>
+<br/>
 <a href="https://instagram.com/master_javascript">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
