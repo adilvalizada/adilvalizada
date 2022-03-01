@@ -3,8 +3,6 @@
 <img alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
 <br/>
-
- ![](https://img.shields.io/badge/Javascript%20Developer-Computer%20Engineer%20%2F%20Influncer%20%2F%20Trainer-a)
  
 <p><em>Computer Enginner at <a href="http://aztu.edu.az/azp/">Azerbaijan Technical University</a><img src="https://media0.giphy.com/media/VGbpeD8L7QFFprYzG2/giphy.gif?cid=790b76115400c2e018ea4ffebbc8176f1ef72efc587127d2&rid=giphy.gif&ct=s" width="40"></p>
  
