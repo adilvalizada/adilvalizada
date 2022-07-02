@@ -1,4 +1,6 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oowxpkdk3bhkpemuvzq3pvbwba&count=3)
 
 <img alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
