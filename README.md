@@ -52,4 +52,4 @@ Who am I ? <b>Someone who is on the way to becoming a professional.</b>
 ### My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilvelizade0&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilvelizade0&layout=compact)](https://github.com/adilvelizade0/github-readme-stats)
