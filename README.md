@@ -29,13 +29,15 @@ Who am I ? <b>Someone who is on the way to becoming a professional.</b>
 <span><img width="215" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></span>
 <span><img width="95" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></span>
 <span><img width="145" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"></span>
+<span><img width="135" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></span>
 
 
 ### My Spotify List
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oowxpkdk3bhkpemuvzq3pvbwba&count=3)
  
- ### My Education
+### My Education
+ 
 <ol>
  <li><p>Computer Enginner at <a href="http://aztu.edu.az/azp/">Azerbaijan Technical University</a><img src="https://media0.giphy.com/media/VGbpeD8L7QFFprYzG2/giphy.gif?cid=790b76115400c2e018ea4ffebbc8176f1ef72efc587127d2&rid=giphy.gif&ct=s" width="40"></p></li>
  <li>Graduated from CodeAcademy.  <img src="https://code.edu.az/wp-content/uploads/2021/07/logo-footer.png" width="100"/></li>
@@ -46,9 +48,6 @@ Who am I ? <b>Someone who is on the way to becoming a professional.</b>
 <a href="https://instagram.com/master_javascript">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-
-<br/>
-<br/>
 
 ### My Stats
 
