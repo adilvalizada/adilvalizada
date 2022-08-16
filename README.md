@@ -1,7 +1,7 @@
-### Hey there 👋🏻 
-Who am I ? <b>Someone who is on the way to becoming a professional.</b>
+![Header](https://user-images.githubusercontent.com/71330310/184869725-f979dc49-4b17-4a82-8323-c44e8bdd3bd6.png)
 
-<img alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+
+<!-- <img alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /> -->
 
 ### My Languages and tools
 
@@ -51,5 +51,5 @@ Who am I ? <b>Someone who is on the way to becoming a professional.</b>
 
 ### My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilvelizade0&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilvelizade0&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilvelizade0&layout=compact)](https://github.com/adilvelizade0/github-readme-stats)
