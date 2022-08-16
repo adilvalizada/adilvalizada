@@ -31,10 +31,13 @@
 <span><img width="145" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"></span>
 <span><img width="135" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></span>
 
+<hr/>
 
 ### My Spotify List
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oowxpkdk3bhkpemuvzq3pvbwba&count=3)
+
+<hr/>
  
 ### My Education
  
@@ -43,13 +46,22 @@
  <li>Graduated from CodeAcademy.  <img src="https://code.edu.az/wp-content/uploads/2021/07/logo-footer.png" width="100"/></li>
 </ol>
 
+<hr/>
+
 ### My social networks
 
 <a href="https://instagram.com/master_javascript">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
 
+<hr/>
+
 ### My Stats
 
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilvelizade0&show_icons=true&theme=radical)
+
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilvelizade0&layout=compact)](https://github.com/adilvelizade0/github-readme-stats)
