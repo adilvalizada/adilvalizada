@@ -58,6 +58,7 @@
 
 ### My Stats
 
+<span>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilvelizade0&show_icons=true&theme=radical)
@@ -65,3 +66,10 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilvelizade0&layout=compact)](https://github.com/adilvelizade0/github-readme-stats)
+</span>
+
+<!--
+<span>
+<a href="https://app.daily.dev/adilvelizade"><img src="https://api.daily.dev/devcards/e981e8b0051344938ffe4fc7a4174451.png?r=ysx" width="400" alt="Adil's Dev Card"/></a>
+</span>
+-->
