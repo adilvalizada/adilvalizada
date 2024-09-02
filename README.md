@@ -55,11 +55,11 @@
 <span>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilvelizade0&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilvalizada&show_icons=true&theme=radical)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilvelizade0&layout=compact)](https://github.com/adilvelizade0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilvalizada&layout=compact)](https://github.com/adilvelizade0/github-readme-stats)
 </span>
 
 <!--
