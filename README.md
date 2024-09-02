@@ -32,12 +32,6 @@
 <span><img width="135" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></span>
 
 <hr/>
-
-### My Spotify List
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oowxpkdk3bhkpemuvzq3pvbwba&count=3)
-
-<hr/>
  
 ### My Education
  
