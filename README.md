@@ -15,10 +15,10 @@
 ---
 
 ## 🌟 **About Me**
-🚀 **Front-End Developer | ReactJS & NextJS Enthusiast**  
+🚀 **Front-End Developer | ReactJS & NextJS Specialist**  
 🎓 **Master's in Computer Science**  
-💻 **Specialized in:** React, Next.js, TypeScript  
-💡 **Passionate About:** Performance Optimization, Scalable Architecture, UX/UI  
+💻 **Specialized in:** **Front-End Development**    
+💡 **Passionate About:** Scalable architecture, seamless user experiences, and cutting-edge web technologies.  
 
 ---
 
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adilvalizada&theme=darkhub&column=4&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adilvalizada&theme=darkhub&margin-w=10&margin-h=10&column=4" />
 </p>
 
 ---
@@ -87,17 +87,10 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adilvalizada&theme=onedark&column=7" />
-</p>
-
----
-
 ## 🎉 **Fun Facts**
 🎨 **UI/UX Enthusiast** – Love designing pixel-perfect interfaces.  
 🌍 **Tech Explorer** – Always excited to learn new frameworks & tools.  
-🎵 **Music & Code** – I write my best code while listening to Lo-Fi beats.  
+📚 **Code & Books** – I believe every great developer should also be a great reader!  
 
 ---
 
