@@ -1,23 +1,106 @@
-![Hello, my name is Adil  Nice to meet you](https://github.com/user-attachments/assets/49f30411-931b-4ee6-a0ca-83929b988b6f)
-
-# Front-End Developer | ReactJS & NextJS Specialist
-
-I’m a detail-oriented Front-End Developer with a Master’s in Computer Science and over four years of experience building high-performance web applications. Proficient in ReactJS, NextJS, and TypeScript, I specialize in creating scalable, user-friendly interfaces for fintech, e-commerce, and mobile projects. With a strong focus on performance optimization and clean architecture, I thrive in collaborative, fast-paced environments. Passionate about innovation and continuous improvement, I’m eager to contribute my expertise to building seamless digital experiences. Let’s connect to explore how I can add value to your team.
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<!-- PROFIL BANNER -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49f30411-931b-4ee6-a0ca-83929b988b6f" alt="Hello, my name is Adil Nice to meet you!" />
 </p>
 
-### Socials
+<h1 align="center">🚀 Hey, I'm Adil! 👋</h1>
 
-<p align="left"> <a href="https://www.github.com/adilvalizada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/adilvalizada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adilvalizada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/adilvalizada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/adilvalizada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@adilvalizada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adilvalizada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/adilvalizada"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/adilvalizada"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@adilvalizada"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🌟 **About Me**
+🚀 **Front-End Developer | ReactJS & NextJS Enthusiast**  
+🎓 **Master's in Computer Science**  
+💻 **Specialized in:** React, Next.js, TypeScript, Redux  
+💡 **Passionate About:** Performance Optimization, Scalable Architecture, UX/UI  
 
-<a href="http://www.github.com/adilvalizada"><img src="https://github-readme-stats.vercel.app/api?username=adilvalizada&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="adilvalizada's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/adilvalizada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adilvalizada&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🚀 **Tech Stack & Skills**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,nodejs,supabase,git,figma,bash,docker,postgres,mongodb,graphql,aws" />
+</p>
+
+---
+
+## 🎯 **GitHub Stats & Trophies**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adilvalizada&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilvalizada&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adilvalizada&theme=darkhub&column=4&margin-w=10" />
+</p>
+
+---
+
+## 📊 **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilvalizada&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 **Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilvalizada&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## ✨ **Recent Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [🚀 How to Optimize React Apps for Better Performance](https://medium.com/@adilvalizada/optimize-react-apps)
+- [📌 Next.js Best Practices for SEO](https://medium.com/@adilvalizada/nextjs-seo-tips)
+- [🔥 Understanding Redux Toolkit in 2024](https://medium.com/@adilvalizada/redux-toolkit-2024)
+<!-- BLOG-POST-LIST:END -->
+
+📌 *Want to read more? Check out my [Medium Blog](https://medium.com/@adilvalizada)!*  
+
+---
+
+## 📞 **Connect With Me**
+<p align="center">
+  <a href="https://www.github.com/adilvalizada" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adilvalizada" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://www.instagram.com/adilvalizada" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="http://www.medium.com/adilvalizada" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.x.com/adilvalizada" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adilvalizada&theme=onedark&column=7" />
+</p>
+
+---
+
+## 🎉 **Fun Facts**
+🎨 **UI/UX Enthusiast** – Love designing pixel-perfect interfaces.  
+🌍 **Tech Explorer** – Always excited to learn new frameworks & tools.  
+🎵 **Music & Code** – I write my best code while listening to Lo-Fi beats.  
+
+---
+
+💡 *"Building a great user experience is like telling a great story — every element should have a purpose!"* 🚀  
+
+---
