@@ -17,7 +17,7 @@
 ## 🌟 **About Me**
 🚀 **Front-End Developer | ReactJS & NextJS Enthusiast**  
 🎓 **Master's in Computer Science**  
-💻 **Specialized in:** React, Next.js, TypeScript, Redux  
+💻 **Specialized in:** React, Next.js, TypeScript  
 💡 **Passionate About:** Performance Optimization, Scalable Architecture, UX/UI  
 
 ---
