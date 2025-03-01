@@ -1,7 +1,5 @@
 ![Hello, my name is Adil  Nice to meet you](https://github.com/user-attachments/assets/49f30411-931b-4ee6-a0ca-83929b988b6f)
 
-## Hi
-
 # Front-End Developer | ReactJS & NextJS Expert
 
 As a dedicated and detail-oriented Front-End Developer with a Master’s in Computer Science, I bring over four years of industry experience in building high-performance web applications and interfaces. My expertise spans advanced frameworks like ReactJS, NextJS, and TypeScript, allowing me to transform intricate design concepts into user-friendly, responsive digital experiences. I have successfully led and contributed to fintech, e-commerce, and mobile development projects, leveraging scalable architecture and efficient state management solutions to optimize both user experience and application performance. Known for my problem-solving mindset, I thrive in collaborative, cross-functional environments where innovation and agility are paramount. My commitment to code quality, best practices, and continuous improvement enables me to deliver reliable, high-quality products that drive measurable results. With a proven ability to adapt to evolving technologies and project needs, I am eager to contribute my technical acumen and project leadership to impactful development roles. Let’s connect to explore how my skills in front-end development, performance optimization, and scalable web solutions can add value to your organization.
