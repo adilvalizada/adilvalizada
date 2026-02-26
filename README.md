@@ -1,97 +1,121 @@
-<!-- PROFIL BANNER -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/49f30411-931b-4ee6-a0ca-83929b988b6f" alt="Hello, my name is Adil Nice to meet you!" />
-</p>
+<div align="center">
 
-<h1 align="center">🚀 Hey, I'm Adil! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adilvalizada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/adilvalizada"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/adilvalizada"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://medium.com/@adilvalizada"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=Adil+Valizada" alt="Name" />
 
-## 🌟 **About Me**
-🚀 **Front-End Developer | ReactJS & NextJS Specialist**  
-🎓 **Master's in Computer Science**  
-💻 **Specialized in:** **Front-End Development**    
-💡 **Passionate About:** Scalable architecture, seamless user experiences, and cutting-edge web technologies.  
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Front-End+Developer+%26+UI%2FUX+Enthusiast;React+%2F+Next.js+%2F+React+Native+Specialist;Building+Lugetim+%26+AXIOM" alt="Typing SVG" />
 
-## 🚀 **Tech Stack & Skills**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,nodejs,supabase,git,figma,bash,docker,postgres,mongodb,graphql,aws" />
-</p>
+<br/><br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilvalizada)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/adilvalizada)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adilvalizada)&nbsp;
+[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/adilvalizada)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adilvalizada)
 
-## 🎯 **GitHub Stats & Trophies**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilvalizada&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilvalizada&theme=radical&hide_border=true" height="180px"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adilvalizada&theme=darkhub&margin-w=10&margin-h=10&column=4" />
-</p>
+</div>
 
----
+<br/>
 
-## 📊 **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilvalizada&layout=compact&theme=radical&hide_border=true" />
-</p>
+## `$ whoami`
 
----
+Front-End Developer with a Master's in Computer Science, focused on building high-quality web and mobile applications. I work across the full product surface — from system architecture and API design to component libraries and UI polish. My background in product design means I think in systems, not just screens.
 
-## 📈 **Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilvalizada&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true" />
-</p>
+Currently shipping **Lugetim** — a React Native / Expo 54 mobile app with AI-powered vocabulary features — and **AXIOM**, a premium digital agency platform built for conversion.
 
----
+<br/>
 
-## ✨ **Recent Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [🚀 Frequently Encountered Programming Terms in Job Interviews: A Comprehensive Overview](https://medium.com/adilvalizada/frequently-encountered-programming-terms-in-job-interviews-a-comprehensive-overview-fd716d1b1518)
-<!-- BLOG-POST-LIST:END -->
+## `$ stack`
 
-📌 *Want to read more? Check out my [Medium Blog](https://medium.com/@adilvalizada)!*  
+<div align="center">
 
----
+**Languages & Frameworks**
 
-## 📞 **Connect With Me**
-<p align="center">
-  <a href="https://www.github.com/adilvalizada" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adilvalizada" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="http://www.instagram.com/adilvalizada" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="http://www.medium.com/adilvalizada" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.x.com/adilvalizada" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs&theme=dark" />
 
----
+**Styling & Design**
 
-## 🎉 **Fun Facts**
-🎨 **UI/UX Enthusiast** – Love designing pixel-perfect interfaces.  
-🌍 **Tech Explorer** – Always excited to learn new frameworks & tools.  
-📚 **Code & Books** – I believe every great developer should also be a great reader!  
+<img src="https://skillicons.dev/icons?i=tailwind,sass,css,figma&theme=dark" />
 
----
+**Data & Infrastructure**
 
-💡 *"Building a great user experience is like telling a great story — every element should have a purpose!"* 🚀  
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,graphql,docker,aws&theme=dark" />
 
----
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=redux,vite,git,bash&theme=dark" />
+
+</div>
+
+<br/>
+
+## `$ metrics`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adilvalizada&theme=github_dark" height="165" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=adilvalizada&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&stroke=1e293b" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adilvalizada&theme=github_dark" height="165" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adilvalizada&theme=github_dark" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adilvalizada&theme=github_dark" />
+
+</div>
+
+<br/>
+
+## `$ activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adilvalizada&bg_color=0d1117&color=94a3b8&line=38bdf8&point=ffffff&area=true&hide_border=true&radius=6" />
+
+</div>
+
+<br/>
+
+## `$ writing`
+
+<table>
+<tr>
+<td>
+
+📄 &nbsp;[**Frequently Encountered Programming Terms in Job Interviews**](https://medium.com/adilvalizada/frequently-encountered-programming-terms-in-job-interviews-a-comprehensive-overview-fd716d1b1518)
+<br/>
+A comprehensive overview of key technical terminology for developers entering the job market.
+
+</td>
+</tr>
+</table>
+
+More articles on [Medium →](https://medium.com/@adilvalizada)
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adilvalizada&style=flat-square&color=38bdf8&label=profile+views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=footer" />
+
+</div>
