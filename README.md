@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Front-End+Developer+%26+UI%2FUX+Enthusiast;React+%2F+Next.js+%2F+React+Native+Specialist;Building+Lugetim+%26+AXIOM" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=Front-End+Developer+%7C+ReactJS+%26+NextJS+%26+React+Native+Specialist;Currently+Working+on+%F0%9F%94%92+Private+Lugetim+Project" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 
 Front-End Developer with a Master's in Computer Science, focused on building high-quality web and mobile applications. I work across the full product surface — from system architecture and API design to component libraries and UI polish. My background in product design means I think in systems, not just screens.
 
-Currently shipping **Lugetim** — a React Native / Expo 54 mobile app with AI-powered vocabulary features — and **AXIOM**, a premium digital agency platform built for conversion.
+Currently working on 🔒 **Lugetim** (private) — a React Native / Expo 54 mobile app with AI-powered vocabulary features.
 
 <br/>
 
