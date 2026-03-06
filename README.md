@@ -38,19 +38,48 @@ Currently working on 🔒 **Lugetim** (private) — a React Native / Expo 54 mob
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,expo&theme=dark" />
+
+<br/><br/>
 
 **Styling & Design**
 
 <img src="https://skillicons.dev/icons?i=tailwind,sass,css,figma&theme=dark" />
 
+<br/><br/>
+
+**State Management & Data Fetching**
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Zustand](https://img.shields.io/badge/Zustand_v5-433E38?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![TanStack Query](https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)&nbsp;
+![Zod](https://img.shields.io/badge/Zod_v4-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+<br/><br/>
+
 **Data & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,graphql,docker,aws&theme=dark" />
 
-**Tooling**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=redux,vite,git,bash&theme=dark" />
+**Tooling & Build**
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint_9-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)&nbsp;
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
+<br/><br/>
+
+**AI & Automation**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)&nbsp;
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
